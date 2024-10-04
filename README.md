@@ -28,3 +28,6 @@ Contributing
 - Contributions are welcome! If you have ideas to improve Whisker-Swipe or find a bug, feel free to create a pull request.
 
 <img width="832" alt="image" src="https://github.com/user-attachments/assets/271eab3e-9349-4f22-b3ea-8bc17600c328">
+
+## Attribution
+If you use this project or any part of it in your own work, please give appropriate credit by linking to this repository or mentioning the author: Tushar Vishwakarma.
