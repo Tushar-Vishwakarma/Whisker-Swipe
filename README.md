@@ -26,3 +26,5 @@ Future Enhancements
 
 Contributing
 - Contributions are welcome! If you have ideas to improve Whisker-Swipe or find a bug, feel free to create a pull request.
+
+<img width="832" alt="image" src="https://github.com/user-attachments/assets/271eab3e-9349-4f22-b3ea-8bc17600c328">
