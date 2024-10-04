@@ -2,6 +2,8 @@
 
 Whisker-Swipe is a fun and innovative dating app designed exclusively for cats! Cats can now swipe right for their perfect match based on shared interests, favorite treats, and purring styles. Whether it's a lazy napper or an energetic playmate, Whisker-Swipe helps your feline friends find their purrfect match.
 
+<img width="832" alt="image" src="https://github.com/user-attachments/assets/271eab3e-9349-4f22-b3ea-8bc17600c328">
+
 Features
 1. Cat Profiles: The app displays cat profiles with their name, age, breed, and a placeholder image.
 2. Swiping Functionality: Users can swipe left or right on cat profiles using the buttons below the card.
@@ -26,8 +28,6 @@ Future Enhancements
 
 Contributing
 - Contributions are welcome! If you have ideas to improve Whisker-Swipe or find a bug, feel free to create a pull request.
-
-<img width="832" alt="image" src="https://github.com/user-attachments/assets/271eab3e-9349-4f22-b3ea-8bc17600c328">
 
 ## Attribution
 If you use this project or any part of it in your own work, please give appropriate credit by linking to this repository or mentioning the author: Tushar Vishwakarma.
