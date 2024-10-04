@@ -3,17 +3,21 @@
 Whisker-Swipe is a fun and innovative dating app designed exclusively for cats! Cats can now swipe right for their perfect match based on shared interests, favorite treats, and purring styles. Whether it's a lazy napper or an energetic playmate, Whisker-Swipe helps your feline friends find their purrfect match.
 
 Features
-- Swipe Mechanism: Cats (and their humans) can swipe left or right to find potential matches.
-- Cat Profiles: Includes bios, photos, and favorite activities of each cat.
-- Matching Algorithm: An AI-driven algorithm that connects cats based on preferences like napping spots, scratching posts, and treat preferences.
-- Chat for Cats: Secure, fun chat interface allowing two matched cats to "meow" with each other.
-- Location-Based Search: Connects cats nearby for potential playdates or just mutual lounging.
+1. Cat Profiles: The app displays cat profiles with their name, age, breed, and a placeholder image.
+2. Swiping Functionality: Users can swipe left or right on cat profiles using the buttons below the card.
+3. Animations: The component uses Framer Motion to add smooth transitions when swiping between profiles.
+4. Match Notification: When a user swipes right on a profile, a match notification appears with an option to "Send a meow".
+5. Playful Design: The app features a gradient background and cat-themed elements to make it fun and engaging.
 
-Usage
-- Create a profile for your cat.
-- Start swiping to find potential matches.
-- Once matched, enjoy chatting with fellow feline friends!
-- I have created the starter page feel-free to update
+
+To use this component, you would need to:
+1. Install necessary dependencies: `framer-motion` and `lucide-react`.
+2. Set up shadcn/ui components in your project.
+3. Replace the placeholder images with actual cat images.
+4. Implement backend logic for real user profiles and matching functionality.
+
+
+This component provides a solid foundation for a cat dating app, which you can further expand by adding features like user authentication, profile creation, and real-time messaging between matched cats (or their owners).
 
 Future Enhancements
 - Video Calls for Cats: Allow cats to have face-to-face time with their new friends.
